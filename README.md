@@ -45,6 +45,9 @@ Currently this looks like:
 ls
 README.md  Week01.md  Week02.md
 ```
+This should also have created a remote repository on github for you (you
+will likely have been asked for your password etc) at
+`https://github.com/YOURNAME/Phy426Readings2018`
 
 ## Step 4: Answer the questions in `Week01.md`
 
